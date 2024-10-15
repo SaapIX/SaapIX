@@ -6,7 +6,7 @@ Je suis un jeune développeur de 18 ans qui a décidé de prendre une année de 
 
 Cette année, je suis entièrement dédié à l'apprentissage des technologies suivantes :
 
-- **HTML, CSS, Tailwind CSS**
+- **Tailwind**
 - **JavaScript, React**
 - **NestJS, NextJS**
 - **Docker**
