@@ -21,12 +21,6 @@ Voici les technologies que j'apprends ou avec lesquelles je travaille :
 - **Back-End** : ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 - **Outils** : ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 Statistiques GitHub
-
-[![Stats GitHub de SaapIX](https://github-readme-stats.vercel.app/api?username=SaapIX&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Langages les plus utilisés par SaapIX](https://github-readme-stats.vercel.app/api/top-langs/?username=SaapIX&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Contact
 
 - **Email**: [lennypopov.pro@gmail.com](mailto:lennypopov.pro@gmail.com)
