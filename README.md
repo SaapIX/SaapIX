@@ -1,6 +1,6 @@
 # Qui suis-je ?
 
-Je suis un jeune développeur de 18 ans qui a décidé de prendre une année de pause dans ses études pour se concentrer pleinement sur le développement de ses compétences. Je suis passionné par le développement web et l'apprentissage de nouvelles technologies. Je me lance dans une **année full learning** 
+Je suis un jeune développeur de 18 ans qui a décidé de prendre une année de pause dans ses études pour se concentrer pleinement sur le développement de ses compétences. Je suis passionné par le développement web et l'apprentissage de nouvelles technologies.
 
 ## 🌱 Ce que je fais actuellement
 
@@ -25,3 +25,4 @@ Voici les technologies que j'apprends ou avec lesquelles je travaille :
 
 - **Email**: [lennypopov.pro@gmail.com](mailto:lennypopov.pro@gmail.com)
 - **Discord** : saapix
+- **Telegram** : https://t.me/Saap_IX
