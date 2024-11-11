@@ -10,7 +10,7 @@ This year, I’m fully dedicated to learning the following technologies:
 - **JavaScript, React**
 - **NestJS, NextJS**
 - **Docker**
-- **C++ and Rust** for web3 projects (coming in the next few months)
+- **C++ and Rust** for web3 projects 
 
 ## 🔧 Technologies & Tools
 
