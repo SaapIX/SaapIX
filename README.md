@@ -1,6 +1,6 @@
 # Who am I?
 
-I am an 18-year-old French developer who decided to take a gap year to fully focus on developing my skills. I am passionate about web development and learning new technologies.
+I am an 19-year-old French developer who decided to take a gap year to fully focus on developing my skills. I am passionate about web development and learning new technologies.
 
 ## 🌱 What I’m Currently Doing
 
