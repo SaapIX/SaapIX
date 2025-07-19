@@ -23,5 +23,4 @@ Here are the technologies I’m learning or currently working with:
 
 ## 📫 Contact
 
-- **Email**: [lennypopov.pro@gmail.com](mailto:lennypopov.pro@gmail.com)
 - **Telegram**: https://t.me/Saap_IX
